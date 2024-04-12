@@ -11,7 +11,7 @@ let extension = [
   ".UK",
   ".CO.UK",
   ".BIZ",
-  ".COM.AU",
+  ".COM.AU"
 ];
 
 for (let varPronoun of pronoun) {
